@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "Eat breakfast",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "text": "Do laundry",
+      "complete": false
+    },
+    {
+      "id": 3,
+      "text": "Start new react project",
+      "complete": false
+    },
+    {
+      "id": "1abffcb1-6ac9-42d2-82b5-72d2daca4440",
+      "text": "build react slack clone",
+      "complete": false
+    }
+  ]
+}
